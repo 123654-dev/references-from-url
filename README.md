@@ -6,6 +6,7 @@ A handy Blender add-on to import reference images directly into Blender without 
 
 ## ✨ Usage:
 
+0. SAVE YOUR PROJECT (for now, the add-on will break otherwise)
 1. Install the add-on by grabbing the latest [release](https://github.com/123654-dev/references-from-url/releases) and locating it from within the Blender preferences
 2. Locate the shiny new menu tab
 3. Adjust the storage directory for downloaded images
