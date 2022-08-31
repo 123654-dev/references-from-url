@@ -9,6 +9,8 @@ classes = (UrlRef_OT_Import, UrlRef_PT_MainPanel, UrlRef_OT_OpenFileBrowser)
 	
 def register():
     bpy.types.Scene.image_path = bpy.props.StringProperty(name="urlref.image_path", default="/urlref")
+    bpy.types.Scene.image_url = bpy.props.StringProperty(name="urlref.image_path")
+
     for cls in classes:
 	    bpy.utils.register_class(cls)
 
