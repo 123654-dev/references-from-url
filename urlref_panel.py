@@ -6,7 +6,7 @@ class UrlRef_PT_MainPanel(bpy.types.Panel):
     bl_idname = "PT_TestPanel"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
-    bl_category = "New Tab"
+    bl_category = "UrlRef"
     
     def draw(self, context):
         layout = self.layout
