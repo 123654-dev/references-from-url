@@ -26,4 +26,4 @@ class UrlRef_PT_MainPanel(bpy.types.Panel):
         row = layout.row()
         row.label(text="Image Import", icon="OUTPUT")
         row = layout.row()
-        row.operator("urlref.import", icon="RIGHTARROW_THIN")
+        row.operator("urlref.import", icon="LINKED")
