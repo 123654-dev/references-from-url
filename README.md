@@ -11,4 +11,4 @@ A handy Blender add-on to import reference images directly into Blender without 
 3. Adjust the storage directory for downloaded images
 4. Import any image by copying its direct URL and pasting it into the prompt that will appear once you press the Import!-button.
 
-![image](https://user-images.githubusercontent.com/72887184/187771439-13bb1eaf-6a80-4e20-bba0-f384d265a0fa.png)
+![image](https://user-images.githubusercontent.com/72887184/187771697-0eec0f64-e81b-4dc0-b313-bce7ff772512.png)
